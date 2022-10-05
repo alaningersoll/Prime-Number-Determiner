@@ -47,4 +47,4 @@ while loop:
             print("Okay! Goodbye!")
             loop = False
         else:
-            print("I don't understand that!")
+            again = input("I don't understand that! Try again (Y/N): ")
